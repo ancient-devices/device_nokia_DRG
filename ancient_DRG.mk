@@ -32,8 +32,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o.mk)
 
 #ancient os 
 ANCIENT_OFFICIAL=true
-ANCIENT_GAPPS=true
-ANCIENT_WEEABO=true
 
 # Inherit some common aosp stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
